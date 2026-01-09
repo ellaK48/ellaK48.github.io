@@ -13,13 +13,13 @@
   --bs-btn-hover-border-color: rgb(72, 102, 127);
 }
 
-#Top {
-  background-color: var(--bs-secondary);
+.Top {
+  background-color: #957980;
   padding: 50px;
   text-align: center;
 }
 
 img {
-  max-width: 100px;
+  max-width: 20px;
 }
 
