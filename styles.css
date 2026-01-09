@@ -15,8 +15,12 @@
 
 .Top {
   background-color: #957980;
-  /*padding: 50px;*/
+  padding-bottom: 0px;
   text-align: center;
+}
+
+.Design{
+  padding-top: 0px;  
 }
 
 img {
