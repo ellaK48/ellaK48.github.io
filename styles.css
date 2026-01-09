@@ -1,6 +1,6 @@
 
 :root {
-  --bs-primary: rgb(104, 136, 163);
+  --bs-primary: rgb(188, 211, 230);
   --bs-secondary: #957980;
   --bs-light: #f8f5ff;
   --bs-dark: #051424;
@@ -20,13 +20,14 @@
 }
 
 .Design{
-  background-color: rgb(104, 136, 163);
+  background-color: rgb(188, 211, 230);
 
 }
 
 .Top, .Design {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 
 img {
