@@ -26,7 +26,10 @@
 img {
   max-width: 5px;
   display: block;
-  margin:  3;
+}
+
+td {
+  padding: 0 10px;
 }
 
 svg * {
