@@ -38,3 +38,7 @@ svg * {
   stroke-width: 0;
 }
 
+svg {
+  height: 60px;   /* or 30%, 5rem, etc. */
+}
+
