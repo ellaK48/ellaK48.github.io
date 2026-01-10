@@ -23,6 +23,11 @@
   height: 50%;
 }
 
+.Projects-div{
+    background-color: #957980;
+    text-align: center;
+}
+
 img {
   max-width: 5px;
   display: block;
