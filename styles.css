@@ -28,6 +28,13 @@
     text-align: center;
 }
 
+.myImage{
+  display: flex;
+  justify-content: center; /* horizontal centering */
+  align-items: center;     /* vertical centering */
+  height: 300px;           /* must set height */
+}
+
 img {
   max-width: 5px;
   display: block;
