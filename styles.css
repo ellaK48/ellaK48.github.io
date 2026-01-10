@@ -52,7 +52,7 @@ p{
   gap: 10px;           /* space between images */
   justify-content: center; /* center the whole row */
   align-items: center; /* vertically align if images have different heights */
-  text-align: center;
+
 }
 
 .image-row img {
