@@ -34,3 +34,7 @@ img {
   max-width: 5px;
 }
 
+svg * {
+  stroke-width: 0;
+}
+
