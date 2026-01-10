@@ -29,13 +29,12 @@ img {
 }
 
 td {
-  padding: 0 10px;
+  padding: 10px 20px;
 }
 
 svg * {
   stroke-width: 0;
 }
-
 
 h1 {
   font-size: 7rem;
