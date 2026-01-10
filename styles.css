@@ -44,7 +44,11 @@ h1 {
 }
 
 h2 {
-    font-size: 2rem;
-    color: #f8f5ff;
+  font-size: 4rem;
+  color: #f8f5ff;
+}
+
+p{
+  font-size: 1rem;
 }
 
