@@ -26,7 +26,7 @@
 img {
   max-width: 5px;
   display: block;
-  margin: 0 auto;
+  margin:  3;
 }
 
 svg * {
@@ -47,16 +47,4 @@ p{
   font-size: 1rem;
 }
 
-.image-row {
-  display: flex;
-  gap: 10px;           /* space between images */
-  justify-content: center; /* center the whole row */
-  align-items: center; /* vertically align if images have different heights */
-
-}
-
-.image-row img {
-  height: 100px;       /* optional: make them the same height */
-  object-fit: cover;   /* keeps aspect ratio if you crop */
-}
 
