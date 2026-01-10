@@ -28,12 +28,14 @@
     text-align: center;
 }
 
-.myImage img {
-  width: 700px; 
-  height: 500px;
-  /* height: auto; 
-  width: auto;  */
+img {
+  max-width: 700px; /* image can fill the width of the container */
+  max-height: 500px; /* image won’t overflow vertically */
+  height: auto;     /* maintain aspect ratio */
+  width: auto;      /* maintain aspect ratio */
 }
+
+
 
 a {
   color: #051424;
@@ -60,7 +62,6 @@ h2 {
 p{
   font-size: 1rem;
   max-width: 600px; 
-  margin: 0 auto;  
 }
 
 
